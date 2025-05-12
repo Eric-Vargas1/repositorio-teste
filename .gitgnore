@@ -1,3 +1,2 @@
-git config --global user.name "dannbeckersenac"
-git config --global user.email "email@teste.com"
-git config --global user.password "minhasenha123"
+venv
+.env
